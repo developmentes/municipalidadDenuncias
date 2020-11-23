@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446172297977",
+    "firebase_url": "https://municipalidadvespertino.firebaseio.com",
+    "project_id": "municipalidadvespertino",
+    "storage_bucket": "municipalidadvespertino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446172297977:android:193423ebceb47759c24028",
+        "android_client_info": {
+          "package_name": "com.inacap.municipalidad_denuncias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446172297977-rv6f32ju6s1nbn25frtd727vq2f2dta3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBBe2COsK_XHMfg9zI9zkw8Oy_t99caw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446172297977-rv6f32ju6s1nbn25frtd727vq2f2dta3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
